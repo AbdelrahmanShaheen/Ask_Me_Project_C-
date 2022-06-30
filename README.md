@@ -1,14 +1,14 @@
 # This is an **AskMe system project** using `classes` for encapsulation.
- We all familiar with the ask.fm site ,where people ask questions and others answers them,
- so this is a simulation of it using c++ only.
+ This is a simulation of ask.fm site as We all familiar with the ask.fm site ,where people ask questions and others answers them.
 
-## 
+## Feauters
 * This is files-based system
-   * Every time the user run it, you see the previous state (users/questions/answers)
+   * Data Stored in two files ,one for questions(questions.txt) and the other for users(users.txt)
+   * These two files in a folder called "DataBase" above.
   
 * Login/Sign up/Sign Out
    * Any system allow a user to sign up (name, email, password, username, password)
-   * Also: As a user do you allow anonymous questions?
+   * You can loggin with (userName ,password)
 
 ## operations :
 * ```User operations``` :
@@ -28,6 +28,14 @@
    *  You can’t do something wrong!
    *  E.g. you can’t remove a question asked to someone else!
    *  You can only see/edit the details of your question
+## App Architecture
+**It's not the exact architecture ,but it's very near to it and it will clear the flow of the app**
+* Used oop paradigm
+* apply the concept of encapsulation ,Single responsibility , DRY and composition.
+
+![App-Architecture](https://user-images.githubusercontent.com/77184432/176608566-18b1e12f-97ad-410a-a03d-ace876e10f07.png)
+
+## Screenshots
 
 ## Technologies used:
 * only c++ , its a console app for learning purpose.
