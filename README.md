@@ -1,7 +1,8 @@
 # This is an **AskMe system project** using `classes` for encapsulation.
-Note! the description of the project here : [Ask Project](https://www.youtube.com/watch?v=xNu6L_pidUo)
- 
-*  People ask questions and others answers them 
+ We all familiar with the ask.fm site ,where people ask questions and others answers them,
+ so this is a simulation of it using c++ only.
+
+## 
 * This is files-based system
    * Every time the user run it, you see the previous state (users/questions/answers)
   
