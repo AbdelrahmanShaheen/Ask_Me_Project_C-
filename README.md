@@ -30,12 +30,13 @@
    *  You can only see/edit the details of your question
 ## App Architecture
 **It's not the exact architecture ,but it's very near to it and it will clear the flow of the app**
-* Used oop paradigm
-* apply the concept of encapsulation ,Single responsibility , DRY and composition.
+* Using oop paradigm
+* applying these concepts : encapsulation ,Single responsibility , DRY and composition.
 
 ![App-Architecture](https://user-images.githubusercontent.com/77184432/176608566-18b1e12f-97ad-410a-a03d-ace876e10f07.png)
 
 ## Screenshots
+
 
 ## Technologies used:
 * only c++ , its a console app for learning purpose.
