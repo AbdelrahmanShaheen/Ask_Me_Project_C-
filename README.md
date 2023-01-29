@@ -3,7 +3,6 @@
 <details>
 <summary>Table of content</summary>
 
-- [This is an **AskMe system project** using `classes` for encapsulation.](#this-is-an-askme-system-project-using-classes-for-encapsulation)
   - [Description](#description)
   - [Features ✨](#features-)
   - [operations](#operations)
